@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(175, 180, 243);
+}
+
+.all-books{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
